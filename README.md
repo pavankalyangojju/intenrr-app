@@ -5,7 +5,7 @@
    *  G Pavan Kalyan
 
 # Porfolios link:
-   * [G PAvan Kalyan Portfolios](https://pavankalyangojju.github.io/)
+   * [G Pavan Kalyan Portfolios](https://pavankalyangojju.github.io/)
 
 
 # Functionality
